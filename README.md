@@ -1,2 +1,2 @@
 # test
-pruebo un proyecto
+Pruebo un proyecto realizado en PHP
